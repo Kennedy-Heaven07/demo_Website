@@ -1,0 +1,31 @@
+p{
+    font-size: 23px;
+    color:seagreen;
+    font-family:serif ;
+    text-decoration: none;
+    font-style:normal;
+    margin: auto;
+    padding-left: 23px;
+}
+figure {
+display: block;
+width: 202px;
+height: 170px;
+background-color: #e7e3d8;
+padding: 9px;
+ padding-top: 10px;
+text-align: left;
+}
+figure img {
+width: 200px;
+height: 150px;
+border: 1px solid #d6d6d6;
+}
+
+.entry {
+width: 220px;
+float: left;
+margin: 7px;
+height: 198px;
+
+}
